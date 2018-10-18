@@ -1,0 +1,8 @@
+[package]
+name = "azul-document-loader"
+version = "0.0.1"
+authors = ["OptimisticPeach <optimistic.peach@yahoo.com>"]
+edition = "2018"
+
+[dependencies]
+azul = { git = "https://github.com/maps4print/azul.git"  }

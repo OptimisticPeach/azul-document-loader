@@ -1,0 +1,5 @@
+/target
+**/*.rs.bk
+Cargo.lock
+proposition.md
+/tests/Ubuntu-Regular.ttf

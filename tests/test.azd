@@ -1,0 +1,19 @@
+{div:red[
+    div:magenta;
+    label:blue ("Hello123");
+    div:subwrapper[
+        div:yellow;
+    ]
+    image:cat ("Cat01");
+    label:orange ("Orange!!! WooHoo")[
+        div:round_button;
+    ]
+]}
+div:wrapper[
+    text:pink ("Lorem Ipsum dolor sit amet" "Ubuntu-Regular" 10);
+    label:red ("Hello123");
+    div:sub_wrapper[
+        div:yellow;
+        div:grey;
+    ]
+]
