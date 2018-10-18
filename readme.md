@@ -1,7 +1,7 @@
-##azul_document_loader
+## azul_document_loader
 A document loader for [azul](https://github.com/maps4print/azul) written in rust.
 
-#Syntax
+# Syntax
 The syntax isn't that complicated:
 
     node_type:optional_id(optional_text)[
